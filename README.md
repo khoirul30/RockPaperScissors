@@ -1,5 +1,5 @@
 # RockPaperScissors
-Make image identified using tensorflow to identified image rock, paper, scissors
+Membuat sebuah image identified untuk identifikasi gambar rock, scissors, dan paper dengan mengggunakan tensorflow
 
 # Inspiration
-This repositories I get when have done course in [Dicoding](dicoding.com)
+Repositori ini saya buat setelah saya menyelesaikan course di [Dicoding](dicoding.com)
